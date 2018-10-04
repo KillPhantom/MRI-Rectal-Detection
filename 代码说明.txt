@@ -1,0 +1,6 @@
+txt-test —— 提取dicom文件并且转换成路径保存到txt,再读取保存
+contour ——提取边界轮廓
+dHash —— 计算相似哈希精确定位
+rectum_locat ——定位膀胱
+hand_locate_process—— 手动截取图像保存
+rotate_process ——旋转翻转增加训练样本
